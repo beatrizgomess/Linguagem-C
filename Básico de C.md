@@ -41,7 +41,7 @@ scanf(%tipo de variável, &nome_da_variável);
 |       Float        |       Números com pontos flutuante (Casas Decimais )       |
 |       Double       | Armazena os números com pontos flutuantes (Casas decimais) |
 
-3. **### Operadores** 
+3. ### **Operadores** 
 
 Se subdividem em três parâmetros:
 
