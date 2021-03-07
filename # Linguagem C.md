@@ -4,9 +4,9 @@
 
 **#### Tudo usado nos exercícios**
 
-\1. Estrutura básica:
+1. Estrutura básica:
 
-Printf ***\*saída de dados\****
+Printf **saída de dados**
 
 ```
 Printf("Mensagem a ser escrita na tela");
@@ -16,9 +16,7 @@ Scanf ***\*entrada de dados\****;
 
 Estrutura Básica:
 
-```
 scanf(%tipo de variável, &nome_da_variável);
-```
 
 \2. **### VARIÁVEIS** 
 
@@ -34,77 +32,44 @@ scanf(%tipo de variável, &nome_da_variável);
 
 **### Tipos Primitivos**
 
-| Tipos de Variáveis | Descrição                          |
+​                      
 
-| :----------------- | ----------------------------------------------------------- |
+| Tipos de Variáveis |               Tipos de Variáveis  Descrição                |
+| :----------------: | :--------------------------------------------------------: |
+|        Char        |                    Armazena Caracteres                     |
+|        Int         |                      Números inteiros                      |
+|       Float        |       Números com pontos flutuante (Casas Decimais )       |
+|       Double       | Armazena os números com pontos flutuantes (Casas decimais) |
 
-| Char        | Armazena Caracters                     |
-
-| Int        | Números inteiros                      |
-
-| Float       | Números com pontos flutuante (Casas Decimais )       |
-
-| Double       | Armazena os números com pontos flutuantes (Casas decimais) |
-
-
-
-\3. **### Operadores** 
-
-
+3. **### Operadores** 
 
 Se subdividem em três parâmetros:
 
-
-
-\- 3.1 Operadores Aritméticos
-
-
+- 3.1 Operadores Aritméticos
 
   São operadores matemáticos para resoluções que necessitam de funções matemáticas
 
+| Operador | Descrição     | Exemplo | Resultado |
+| -------- | ------------- | ------- | --------- |
+| +        | Soma          | 4 + 2   | 6         |
+| -        | Subtração     | 4 - 2   | 2         |
+| *        | Multiplicação | 4 * 2   | 8         |
+| /        | Divisão       | 4 / 2   | 2         |
+| =        | Atribuição    | x = 4   | 4         |
+| %        | Módulo        | 4 % 2   | 0         |
 
-
- | Operador |  Descrição  | Exemplo | Resultado |
-
- | :------: | :-----------: | :-----: | --------- |
-
- |  +   |   Soma   | 4 + 2 | 6     |
-
- |  -   |  Subtração  | 4 - 2 | 2     |
-
- |  *   | Multiplicação | 4 * 2 | 8     |
-
- |  /   |  Divisão  | 4 / 2 | 2     |
-
- |  =   | Atribuição  | x = 4 | 4     |
-
- |  %   |  Módulo   | 4 % 2 | 0     |
+- 3.2 Operadorres Relacionais 
 
 
 
-
-
-\- 3.2 Operadorres Relacionais 
-
-
-
-| Operador |  Descrição  | Exemplo | 
-
- | :------: | :-----------: | :-----: |
-
- |  ==   |   Igual a  | x == y  | 6     |
-
- |  !=   |  Diferente | x != y | 2     |
-
- |  >  |   Maior que | 4 > 2 | 8     |
-
- |  <  |  Menor que  | 4 < 2 | 2     |
-
- |  >=   | Maior Igual  | 4 >= 2 | 4     |
-
- |  <= |  Menor Igual   | 2 =24 | 0     |
-
-
+| Operador |  Descrição  | Exemplo |
+| :------: | :---------: | :-----: |
+|    ==    |   Igual a   | x == y  |
+|    !=    |  Diferente  | x != 2  |
+|    >     |  Maior que  |  4 > 2  |
+|    <     |  Menor que  |  4 < 2  |
+|    >=    | Maior Igual | 4 >= 2  |
+|    <=    | Menor Igual | 4 <= 2  |
 
 - 3.3 Operadores Lógico
   1.  O operador de negação é usado para inverter o resultado da expressão. 
