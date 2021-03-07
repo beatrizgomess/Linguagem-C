@@ -72,9 +72,9 @@ Se subdividem em três parâmetros:
 |    <=    | Menor Igual | 4 <= 2  |
 
 - 3.3 Operadores Lógico
-  1.  O operador de negação é usado para inverter o resultado da expressão. 
-  2. O operador de conjunção é usado para criar condições em que todas as alternativas sejam verdadeiras.
-  3. O operador de disjunção é usado para criar condições em que basta uma condição ser verdadeira para que o resultado também seja.
+    1.  O operador de negação é usado para inverter o resultado da expressão. 
+    2. O operador de conjunção é usado para criar condições em que todas as alternativas sejam verdadeiras.
+    3. O operador de disjunção é usado para criar condições em que basta uma condição ser verdadeira para que o resultado também seja.
 
 | Operador |   Descrição   |       Exemplo        |
 | :------: | :-----------: | :------------------: |
