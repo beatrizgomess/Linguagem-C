@@ -1,8 +1,8 @@
-**# Linguagem C** 
+# **Linguagem C** 
 
 <img src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png" alt="Linguagens de programação - NOIC" style="zoom: 33%;" />
 
-**#### Tudo usado nos exercícios**
+#### **Tudo usado nos exercícios**
 
 1. Estrutura básica:
 
@@ -18,19 +18,19 @@ Estrutura Básica:
 
 scanf(%tipo de variável, &nome_da_variável);
 
-\2. **### VARIÁVEIS** 
+2. ### **VARIÁVEIS** 
 
-**#### Características de variáveis** 
+#### **Características de variáveis**
 
-\- Possui nome
+- Possui nome
 
-\- Possui tipo
+- Possui tipo
 
-\- Possui tamanho 
+- Possui tamanho 
 
-\- Possui valor
+- Possui valor
 
-**### Tipos Primitivos**
+### **Tipos Primitivos**
 
 ​                      
 
@@ -41,7 +41,7 @@ scanf(%tipo de variável, &nome_da_variável);
 |       Float        |       Números com pontos flutuante (Casas Decimais )       |
 |       Double       | Armazena os números com pontos flutuantes (Casas decimais) |
 
-3. **### Operadores** 
+3. ### **Operadores** 
 
 Se subdividem em três parâmetros:
 
@@ -72,9 +72,9 @@ Se subdividem em três parâmetros:
 |    <=    | Menor Igual | 4 <= 2  |
 
 - 3.3 Operadores Lógico
-  1.  O operador de negação é usado para inverter o resultado da expressão. 
-  2. O operador de conjunção é usado para criar condições em que todas as alternativas sejam verdadeiras.
-  3. O operador de disjunção é usado para criar condições em que basta uma condição ser verdadeira para que o resultado também seja.
+    1.  O operador de negação é usado para inverter o resultado da expressão. 
+    2. O operador de conjunção é usado para criar condições em que todas as alternativas sejam verdadeiras.
+    3. O operador de disjunção é usado para criar condições em que basta uma condição ser verdadeira para que o resultado também seja.
 
 | Operador |   Descrição   |       Exemplo        |
 | :------: | :-----------: | :------------------: |
