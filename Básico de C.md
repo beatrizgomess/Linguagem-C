@@ -1,4 +1,3 @@
-# Linguagem-C
 **# Linguagem C** 
 
 <img src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png" alt="Linguagens de programação - NOIC" style="zoom: 33%;" />
@@ -19,19 +18,19 @@ Estrutura Básica:
 
 scanf(%tipo de variável, &nome_da_variável);
 
-\2. **### VARIÁVEIS** 
+2. ### **VARIÁVEIS** 
 
-**#### Características de variáveis** 
+#### **Características de variáveis**
 
-\- Possui nome
+- Possui nome
 
-\- Possui tipo
+- Possui tipo
 
-\- Possui tamanho 
+- Possui tamanho 
 
-\- Possui valor
+- Possui valor
 
-**### Tipos Primitivos**
+### **Tipos Primitivos**
 
 ​                      
 
