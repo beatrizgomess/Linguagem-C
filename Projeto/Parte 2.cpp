@@ -4,7 +4,7 @@
 
 #define MAX_CONTATOS 1000
 
-typedef enum{ // enumeração 
+typedef enum{ // enumeraÃ§Ã£o 
 	TELA_SAIR = -1,
 	TELA_PRINCIPAL,
 	TELA_CADASTRAR,
@@ -96,7 +96,8 @@ int main(void)
 			break;
 			default:
 				agenda.menu = TELA_PRINCIPAL;
-	}			break;
+				break;
+		}
 
 }
 	return 0;
