@@ -1,6 +1,6 @@
 # **Linguagem C** 
 
-<img src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png" alt="Linguagens de programação - NOIC" style="zoom: 33%;" />
+
 
 #### **Tudo usado nos exercícios**
 
